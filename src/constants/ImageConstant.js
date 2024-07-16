@@ -1,0 +1,11 @@
+export const CARD1 = require('../assets/icons/Card1.png');
+export const CARD2 = require('../assets/icons/Card2.png');
+export const CARD3 = require('../assets/icons/Card3.png');
+export const CARD4 = require('../assets/icons/Card4.png');
+export const CARD5 = require('../assets/icons/Card5.png');
+export const CARD6 = require('../assets/icons/Card6.png');
+export const CARD7 = require('../assets/icons/Card7.png');
+export const CARD8 = require('../assets/icons/Card8.png');
+export const CHIP = require('../assets/icons/chip.png');
+export const CONTACTLESS = require('../assets/icons/contactless.png');
+export const SYMBOL = require('../assets/icons/symbols.png');
